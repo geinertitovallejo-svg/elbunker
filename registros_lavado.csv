@@ -1,0 +1,11 @@
+ID,Tipo,Placa,Servicio,Pago,Monto,Fecha,Lavador 1,Lavador 2,Motivo Gasto,Precio Gasto
+20260930113436376015,Auto,CVSS,Encerado,Tarjeta,S/ 16.00,30/09/2026 11:34,Carlos,Junior,shampo,S/ 14.00
+20260930114800243752,Moto,XVC,Lavado Completo,Tarjeta,S/ 16.00,30/09/2026 11:48,Pedro,Junior,-,-
+20260930114814894309,Auto,ASSAS,Lavado Simple,Efectivo,S/ 20.00,30/09/2026 11:48,Carlos,Carlos,-,-
+20260930125043839850,Auto,XDAS,Lavado Simple,Efectivo,S/ 13.00,30/09/2026 12:50,Carlos,Jose,lol,S/ 12.00
+20260930125053420415,Auto,CAS,Lavado Simple,Efectivo,S/ 13.00,30/09/2026 12:50,Carlos,Juan,SASA,S/ 13.00
+20260930125113237841,Motaxi,XVC,Lavado Completo,Tarjeta,S/ 50.00,30/09/2026 12:51,Juan,Jose,nose,S/ 14.00
+,Moto,XCV,Salón,,S/ 17.00,2026-09-30 15:45,,,,
+1790810704907,Bicicleta,CCXCXC,Lavado Simple,Efectivo,S/ 16.00,2026/09/30 18:25,Juan,Pedro,-,-
+1790811962685,Bicicleta,WEWE,pintura completa,Yape/Plin,S/ 20.00,2026/09/30 18:46,Lopez,Junior,shampo,S/ 30.00
+1790817814698,Camioneta,XCS-456,Pulido,Yape/Plin,S/ 20.00,2026/09/30 20:23,Juan,-,NOSE,S/ 10.00

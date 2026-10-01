@@ -1,0 +1,5 @@
+Sedán
+Camioneta
+Moto
+Auto
+Motaxi
